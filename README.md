@@ -5,4 +5,3 @@ A person passionate about technology. I like to code and create new projects usi
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsolotj)](https://twitter.com/jsolotj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/borgestj)](https://www.linkedin.com/in/borgestj)
-![Custom badge](https://img.shields.io/endpoint?color=black&label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fborgestij%2F)
