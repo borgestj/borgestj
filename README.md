@@ -45,4 +45,4 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/borgestj/borgestj/outputsnake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/borgestj/borgestj/output/github-contribution-grid-snake.svg)
