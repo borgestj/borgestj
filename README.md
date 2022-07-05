@@ -35,10 +35,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=borgestj" height="150" alt="languages graph"  />
 </div>
 
-###
+## Visitas no pefil - Atividade
 
-<br clear="both">
+<!-- visitors count  -->
 
-<img href="https://raw.githubusercontent.com/borgestj/borgestj/blob/output/snake.svg" alt="Snake animation" />
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/borgestj/count.svg" />  
+</p>
 
-###
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/borgestj/borgestj/outputsnake.svg)
