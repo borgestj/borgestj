@@ -1,4 +1,6 @@
-<h2 align="left">Hi there!!<br>My name is Roberto Borges. I`ve been working as Front-end Developer. 💻<br>A person passionate about technology. I like to code and create new projects using Javascript. So my focus is to promote practices that influence other developers to create ever better projects. 😄</h2>
+<h2 align="left">Hi there!!
+  <br>My name is Roberto Borges, and I’ve been working as a Front-end Developer. 💻
+  <br>I’m passionate about technology. I love coding and creating new projects using JavaScript. My focus is to promote practices that encourage other developers to create even better projects. 😄</h2>
 
 ###
 
